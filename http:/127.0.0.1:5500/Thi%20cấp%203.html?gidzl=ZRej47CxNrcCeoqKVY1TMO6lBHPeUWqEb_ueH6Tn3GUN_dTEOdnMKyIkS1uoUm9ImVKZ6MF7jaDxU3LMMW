@@ -1,16 +1,111 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
 
-<!--
-**Khangisdumb/Khangisdumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
 
-Here are some ideas to get you started:
+    <link rel="icon" type="image/x-icon"
+        href='https://img.lovepik.com/freevector/32/84/94/08358PICgp68007v7HJpW_PIC2018.jpg'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <title>happy birthday mah bro</title>
+    <style>
+     @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,500;1,300&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 17px;
+        }
+
+        .box {
+            width: 430px;
+            height: 600px;
+            border: 2px solid black;
+            background-image: url(https://img.lovepik.com/freevector/32/84/94/08358PICgp68007v7HJpW_PIC2018.jpg);
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .box-inside {
+            width: 360px;
+            height: 344px;
+            border: 2px solid black;
+            margin-top: 216px;
+            margin-left: 34px;
+        }
+
+        .box-info {
+            margin-top: 20px;
+            margin-left: 50px;
+        }
+
+        .title-space {
+            margin-top: 10px;
+        }
+
+        .title-space2 {
+            margin-top: 7px;
+            margin-left: 25px;
+        }
+        .text-space3 {
+            margin-right: 10px;
+        }
+        .thick {
+            font-size: 12px;}
+        
+    </style>
+
+<body>
+    <div class="box">
+        <div class="box-inside">
+            <h3 class="box-info">
+                Happy birthday my brother
+            </h3>
+            <p class="title-space">
+                Happy birthday mah bro,
+            </p>
+            <p class="title-space2">
+                Congratulation 'cuz you have 
+            </p>
+            <p class="title-space2">
+                finished the hightschool's exam! 
+            </p>
+            <p class="title-space2">
+                also, it's your birthday soooo 
+            </p>
+            <p class="title-space2">
+                I just want to give you a small
+            </p>
+            <p class="title-space2">
+                PRESENT 🔥🔥ツツ 
+            </p>
+            <p class="title-space2">
+                I'm hoping that you will get  
+            </p>
+            <p class="title-space2">
+                into the school that u want
+            </p>
+            <p class="title-space2">
+                P/S: You're mah best bro ever🔥 
+            </p>
+            <h3 class="text-space3">
+                <div style="position:relative; left:290px; top: 25px;px">
+                    <p class="thick">
+                        Ur brother
+                   </p>
+                   <p class="thick">
+                    Kisdumb
+               </p>
+                </div>
+            </h3>
+        </div>
+
+
+
+    </div>
+
+</body>
+
+</html>
